@@ -1,0 +1,14 @@
+header{
+    text-shadow: 0cap;
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body{
+    background-color: bisque;
+}
+
+p{
+    text-align: justify;
+}

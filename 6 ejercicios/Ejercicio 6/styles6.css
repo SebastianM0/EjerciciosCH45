@@ -1,0 +1,28 @@
+body{
+    background: rgb(75,89,129);
+    background: radial-gradient(circle, rgba(75,89,129,1) 5%, rgba(234,246,252,1) 45%, rgba(176,206,237,1) 95%);
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+
+#image{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.logo{
+    width: 20px;
+    height: 20px;
+}
+

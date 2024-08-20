@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    display: inline-block;
+    vertical-align:baseline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    width:200px
+    ;
+    height: auto;
+}
+div{
+    text-align: center;
+    padding: 20px;
+    display: inline-block;
+
+}
+
+body{
+    background-color: blanchedalmond;
+}
