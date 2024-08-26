@@ -1,0 +1,202 @@
+:root{
+    --color-2 : #DFD3C3;
+    --color-3 : #D0B8A8;
+    --color-4 : #C5705D;
+}
+
+
+#logotoluca{
+    width: 200px;
+    height: 50px;
+}
+
+#nevado{
+    padding-top: 40px;
+    width: 500px;
+    height: 250px;
+}
+
+#titulotoluca{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.datosChorizo{
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    border: #C5705D solid 1px;
+    border-radius: 20px
+    
+}
+
+.datosMuseo{
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    border: #C5705D solid 1px;
+    border-radius: 20px
+    
+}
+
+
+.datosAltura{
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    border: #C5705D solid 1px;
+    border-radius: 20px
+
+}
+
+.datosNevado{
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    border: #C5705D solid 1px;
+    border-radius: 20px
+
+}
+.datosPresi{
+    width: 150px;
+    height: 200px;
+    padding: 10px;
+    border: #C5705D solid 1px;
+    margin: 10px;
+    border-radius: 20px
+}
+
+.fuentefeli{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*CSS VISITA*/
+
+.Cosmovitral{
+    padding: 40px;
+    text-align: center;
+    border:#D0B8A8 solid 1px;
+    border-radius: 20px;
+    background-color: #f9f0e6;
+}
+
+
+#cosmovitral_foto{
+    width: 300px;
+    height: 200px;
+}
+
+
+.formulariofeli{
+  border: #C5705D solid 1px;
+  border-radius: 10px;
+  background-color: #f9f0e6;
+}
+/*Fuente Poppins*/
+
+.poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
